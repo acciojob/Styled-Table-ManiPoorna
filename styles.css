@@ -1,1 +1,20 @@
 /* your code */
+.r1{
+	background: blue;
+	color : white;
+}
+table,tr,th,tbody{
+	border : 1px solid black
+}
+tr{
+	background: pink;
+}
+.r2,.r4{
+	backround: ;
+	color : black;
+}
+
+.r3,.r5{
+	backround : yellow;
+	color : black;
+}
